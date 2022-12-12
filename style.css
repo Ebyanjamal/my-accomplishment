@@ -1,4 +1,14 @@
 body {
-    background: blue;
+    background-color: cadetblue;
   }
-  
+  h1,p {
+    text-align: center;
+  }
+p{
+    font-size: medium;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+
+}
